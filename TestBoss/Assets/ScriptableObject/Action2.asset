@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d7f835971e86054ab94c9c663c12c05, type: 3}
+  m_Name: Action2
+  m_EditorClassIdentifier: 
+  actionName: "\u884C\u52D5\u540D\u79F03(\u5F85\u6A5F)"
+  damageAmount: 0
+  actionTime: 2
+  animationName: Animation2
